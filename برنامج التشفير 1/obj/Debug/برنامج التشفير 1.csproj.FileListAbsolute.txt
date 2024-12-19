@@ -1,0 +1,9 @@
+c:\users\mohamad shoaib\documents\visual studio 2015\Projects\برنامج التشفير 1\برنامج التشفير 1\bin\Debug\برنامج التشفير 1.exe.config
+C:\Users\Mohamad Shoaib\Documents\Visual Studio 2015\Projects\برنامج التشفير 1\برنامج التشفير 1\obj\Debug\برنامج التشفير 1.csprojResolveAssemblyReference.cache
+C:\Users\Mohamad Shoaib\Documents\Visual Studio 2015\Projects\برنامج التشفير 1\برنامج التشفير 1\obj\Debug\برنامج_التشفير_1.Form1.resources
+C:\Users\Mohamad Shoaib\Documents\Visual Studio 2015\Projects\برنامج التشفير 1\برنامج التشفير 1\obj\Debug\برنامج_التشفير_1.Properties.Resources.resources
+C:\Users\Mohamad Shoaib\Documents\Visual Studio 2015\Projects\برنامج التشفير 1\برنامج التشفير 1\obj\Debug\برنامج التشفير 1.csproj.GenerateResource.Cache
+C:\Users\Mohamad Shoaib\Documents\Visual Studio 2015\Projects\برنامج التشفير 1\برنامج التشفير 1\bin\Debug\برنامج التشفير 1.exe
+C:\Users\Mohamad Shoaib\Documents\Visual Studio 2015\Projects\برنامج التشفير 1\برنامج التشفير 1\bin\Debug\برنامج التشفير 1.pdb
+C:\Users\Mohamad Shoaib\Documents\Visual Studio 2015\Projects\برنامج التشفير 1\برنامج التشفير 1\obj\Debug\برنامج التشفير 1.exe
+C:\Users\Mohamad Shoaib\Documents\Visual Studio 2015\Projects\برنامج التشفير 1\برنامج التشفير 1\obj\Debug\برنامج التشفير 1.pdb
